@@ -1,5 +1,7 @@
 # Simple flatbread
 
+![Simple Flatbread](images/simple-flatbreads.jpg)
+
 These simple flatbreads are ticker and chewier than tortillas and pitas. With the addition of baking powder, these yeasted flatbreads are quick and forgiving. Excellent for making heavier sandwhich wraps or just dipping in garlic infused extra virgin olive oil.
 
 ## Stats
